@@ -15,6 +15,7 @@
  * 5. NaN;
  * 6. undefined
  */
+
 var Name="Nguyễn MInh Thuận";
 if(Name){
     console.log('Điều Kiện Đúng!');
