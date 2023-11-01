@@ -40,5 +40,4 @@ console.log(d);
 // Toán tử --
 var k=10;
 k--;
-k++;
 console.log(k);
