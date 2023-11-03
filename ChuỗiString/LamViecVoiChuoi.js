@@ -31,5 +31,14 @@ console.log('Trim:',myStringShow.trim().length);
 console.log('Split: ',myStringShow.split(' '));
 
 //9. Get a character by index: nó dùng để lấy 1 ký tự
-console.log(myStringShow.charAt(0,7));
+console.log(myStringShow.charAt(0));
 
+
+var coursesStr = 'HTML & CSS, JavaScript, ReactJS';
+
+function strToArray(str) {
+    console.log(coursesStr.split(' , '),str);
+}
+
+// Expected results
+console.log(strToArray(coursesStr)) 
