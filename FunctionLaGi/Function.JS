@@ -31,3 +31,36 @@ function showMessage(message) {
 }
 
 showMessage("Hi anh em F8!");
+/**
+ * 1 Các loai Function 
+	 - Declaration Function ()
+	 - Expression Function ()
+	 - Arrow Function ()
+ */
+
+// 1.Declaration Function () là định nghĩa function đầu tiên và tên cua function
+function Declaration(){
+    console.log('Declaration Function');
+}
+Declaration();
+
+// Expression Function () là gán 1 biến trước function, có thể đặt tên cho nó để mình dễ hiểu  , có 1 vài số Expression
+
+var showExpression=function(){
+    console.log('Expression Function');
+}
+showExpression();
+
+// Callback
+setTimeout(function namesetTime() {
+
+})
+
+var myObjcet={
+    myFunction:function namObject(){
+
+    }
+}
+
+
+
