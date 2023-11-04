@@ -25,4 +25,4 @@ var myObject={
 
 
 // gọi Object
-console.log(myObject.gerdata());
+//console.log(myObject.gerdata());
