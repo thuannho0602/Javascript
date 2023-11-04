@@ -1,5 +1,8 @@
 /**
- * ObJect là gì trong JS
+ *  * ObJect là gì trong JS
+ *      - một object (đối tượng) là một tập hợp các cặp key - value không có thứ tự. Mỗi cặp key - value được gọi là một thuộc tính.
+ *         + Key của một thuộc tính có thể là một chuỗi
+ *         + Value của một thuộc tính có thể là bất kỳ giá trị JavaScript hợp lệ nào, ví dụ: Một chuỗi, một số, một mảng và thậm chí là một hàm.
  * 
  */
 
