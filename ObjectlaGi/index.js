@@ -7,7 +7,7 @@
  */
 
 //tạo 1 object 
-var keyPhone=['phoneNumber'];
+var keyPhone=['phoneNumber'];    
 var keyEmail=['Email']
 
 var myObject={
