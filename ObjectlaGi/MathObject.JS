@@ -20,3 +20,4 @@ if(random<10){
 console.log(random) 
 
 console.log(Math.PI);
+console.log(Math.min(4,5,1,0,-1));
