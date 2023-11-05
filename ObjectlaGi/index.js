@@ -6,10 +6,10 @@
  * 
  */
 
-//tạo 1 object 
+// Tạo keys cho Object
 var keyPhone=['phoneNumber'];    
 var keyEmail=['Email']
-
+//tạo 1 object 
 var myObject={
     fullName: 'Minh Thuận',
     age: 23,
