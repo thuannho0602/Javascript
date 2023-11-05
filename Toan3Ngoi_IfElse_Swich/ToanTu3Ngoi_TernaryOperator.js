@@ -4,6 +4,7 @@
  *   Kết quả ở đây có thể là một giá trị được trả về, cũng có thể là một xử lý sẽ thực hiện sau đó tùy thuộc vào điều kiện chỉ định là đúng hay sai.  
  */
 
+//Tạo Demo
 var course={
     name:'Javascrpit',
     coin:0
