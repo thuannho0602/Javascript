@@ -4,7 +4,7 @@
  * 
  */
 
-///  date 6 
+///  Demo Switch
 var date=4;
 switch(date){
     case 1:
