@@ -18,7 +18,12 @@
 //     }
 // }
 //lầy i luon +5
-for(var i=0;i<100;i+=5){
+// for(var i=0;i<100;i+=5){
+//     console.log(i)
+// }
+
+// in từ 100 xuong 0
+for(var i=100;i>0;i--){
     console.log(i)
 }
 
