@@ -38,4 +38,4 @@ var filterArr=myArrCouns.filter2(function(myArrCoun,index,arr){
     //console.log(myArrCouns,index,arr);
    return myArrCoun.coins>1000
 })
-console.log(filterArr)
+//console.log(filterArr)
