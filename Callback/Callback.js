@@ -17,4 +17,4 @@
     var htmls=listAlls.map(function(listAll){
         return `<h3>${listAll}</h3>`
     });
-    console.log(htmls)
+    // console.log(htmls)
