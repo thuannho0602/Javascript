@@ -1,5 +1,6 @@
 //  MyforEach
-// Object Prototype quên thì học lại 
+// Object Prototype quên thì học lại và for in
+// hasOwnProperty: Trả về giá trị true/false cho biết object có thuộc tính được đưa ra không.
 
 //viết hàm ForEach 2
 
@@ -11,17 +12,13 @@ Array.prototype.forEach2=function(callback){
             }
         }
 }
-
-
 // Tạo 1 cái mảng
 var couns=[
     'Java',
     'PHP',
     'C#'
 ];
-
-
 // gọi hàm forEach2
 couns.forEach2(function(coun,index,arr){
-    console.log(coun,index,arr);
+    //console.log(coun,index,arr);
 });
