@@ -40,4 +40,4 @@ Array.prototype.some2=function(callback){
 var reslut=myArrCouns.some2(function(myArrCoun,index,arr){
     return myArrCoun.isFinish=true ;
 });
-console.log(reslut);
+//console.log(reslut);
