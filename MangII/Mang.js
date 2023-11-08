@@ -30,22 +30,7 @@
             id: 4,
             name: 'JS',
             cions:250
-        },
-        {
-            id: 5,
-            name: 'Golang',
-            cions:200
         }, 
-        {
-            id: 6,
-            name: 'C#',
-            cions:500
-        },
-        {
-            id: 7,
-            name: 'C#',
-            cions:1000
-        },
     ]
     // foreach():
     Arr.forEach(function(arrs,index){
